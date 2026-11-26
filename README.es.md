@@ -8,7 +8,7 @@ tema aparece en la conversación — no hace falta invocar nada manualmente.
 
 ## 📖 Guía de uso
 
-Guía completa (landing + paso a paso): **https://inematds.github.io/n8n-maker/guia/es/**
+Guía completa (landing + paso a paso): **https://linnoff88-dev.github.io/arckhe-/guia/es/**
 
 > Antes eran skills globales (`~/.claude/skills/`). Se movieron a este
 > proyecto para que queden versionadas junto con el trabajo de n8n.
@@ -96,4 +96,4 @@ sintaxis, patrones y depuración.
 
 ## Licencia / origen
 
-Skills de uso interno de INEMA, mantenidas en este repositorio.
+Skills de uso interno de ARCKHÉ, mantenidas en este repositorio.

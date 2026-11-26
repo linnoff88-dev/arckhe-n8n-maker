@@ -8,7 +8,7 @@ the topic comes up in conversation—you don't need to invoke anything manually.
 
 ## 📖 User guide
 
-Complete guide (landing page + step-by-step instructions): **https://inematds.github.io/n8n-maker/guia/en/**
+Complete guide (landing page + step-by-step instructions): **https://linnoff88-dev.github.io/arckhe-/guia/en/**
 
 > They used to be global skills (`~/.claude/skills/`). They were moved into this
 > project so they're versioned alongside the n8n work.
@@ -96,4 +96,4 @@ syntax, patterns, and debugging.
 
 ## License / origin
 
-INEMA internal-use skills, maintained in this repository.
+ARCKHÉ internal-use skills, maintained in this repository.
